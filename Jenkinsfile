@@ -20,8 +20,8 @@ node {
         sh 'echo Deploying Env'
         sh 'docker-compose up -d --build'    
     }
-    
+    /*
     stage ('Configure') {
       
-    }
+    }*/
 }
