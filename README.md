@@ -23,3 +23,6 @@ Odoo with Jenkins and Docker
 17. choose "docker-odoo"
 18. click "create pipeline"
 19. odoo url is 'http://localhost:8069/'
+
+# Helpfull links
+https://hub.docker.com/_/odoo environment setup
