@@ -12,7 +12,7 @@ Odoo with Jenkins and Docker
 8. jenkins url is 'http://localhost:1000/'
 9. hit "Start using Jenkins"
 
-# Create pipeline for the docker-jenkins project
+# Create pipeline for the docker-odoo project
 10. click "Open Blue Ocean" at the left bar
 11. "Create a new pipeline"
 12. "Github"
