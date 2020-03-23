@@ -22,3 +22,4 @@ Odoo with Jenkins and Docker
 16. choose "conology"
 17. choose "docker-odoo"
 18. click "create pipeline"
+19. odoo url is 'http://localhost:8069/'
