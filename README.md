@@ -19,6 +19,6 @@ Odoo with Jenkins and Docker
 13. "Create an access token here."
 14. Log in to github, give the token a name, hit enter, copy the token
 15. insert the token in jenkins and hit "Connect"
-16. choose "conoloy"
+16. choose "conology"
 17. choose "docker-odoo"
 18. click "create pipeline"
