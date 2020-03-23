@@ -13,7 +13,7 @@ Odoo with Jenkins and Docker
 9. hit "Start using Jenkins"
 
 # Create pipeline for the docker-jenkins project
-10. klick "Open Blue Ocean" at the left bar
+10. click "Open Blue Ocean" at the left bar
 11. "Create a new pipeline"
 12. "Github"
 13. "Create an access token here."
